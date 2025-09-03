@@ -5,6 +5,6 @@
 return [
     // 指令定义
     'commands' => [
-        'user_zaixian_state' => 'app\command\UserZaiXianState',  // 添加这一行
+        'caiji' => 'app\command\CaiJi',  // 添加这一行
     ],
 ];
